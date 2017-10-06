@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\c++ reference\c++ reference information\classes, objects and friend functions\returning_objects\returning_objects\source.cpp(35): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\c++ reference\c++ reference information\classes, objects and friend functions\returning_objects\returning_objects\source.cpp(36): warning C4305: 'argument' : truncation from 'double' to 'float'
+  Returning_Objects.vcxproj -> E:\C++ Reference\C++ Reference Information\Classes, Objects And Friend Functions\Returning_Objects\Debug\Returning_Objects.exe

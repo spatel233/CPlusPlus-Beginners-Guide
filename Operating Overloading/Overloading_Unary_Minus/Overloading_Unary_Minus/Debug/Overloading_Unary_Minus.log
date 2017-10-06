@@ -1,0 +1,19 @@
+﻿Build started 12/2/2014 8:55:28 PM.
+     1>Project "E:\C++ Reference\C++ Reference Information\Overloading_Unary_Minus\Overloading_Unary_Minus\Overloading_Unary_Minus.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\c++ reference\c++ reference information\overloading_unary_minus\overloading_unary_minus\main.cpp(26): error C2653: 'space' : is not a class or namespace name
+     1>e:\c++ reference\c++ reference information\overloading_unary_minus\overloading_unary_minus\main.cpp(28): error C2065: 'x' : undeclared identifier
+     1>e:\c++ reference\c++ reference information\overloading_unary_minus\overloading_unary_minus\main.cpp(29): error C2065: 'y' : undeclared identifier
+     1>e:\c++ reference\c++ reference information\overloading_unary_minus\overloading_unary_minus\main.cpp(30): error C2065: 'z' : undeclared identifier
+     1>e:\c++ reference\c++ reference information\overloading_unary_minus\overloading_unary_minus\main.cpp(41): error C2059: syntax error : '-'
+     1>e:\c++ reference\c++ reference information\overloading_unary_minus\overloading_unary_minus\main.cpp(42): error C2039: 'cout' : is not a member of 'Space'
+                 e:\c++ reference\c++ reference information\overloading_unary_minus\overloading_unary_minus\main.cpp(5) : see declaration of 'Space'
+     1>e:\c++ reference\c++ reference information\overloading_unary_minus\overloading_unary_minus\main.cpp(43): error C2039: 'S' : is not a member of 'Space'
+                 e:\c++ reference\c++ reference information\overloading_unary_minus\overloading_unary_minus\main.cpp(5) : see declaration of 'Space'
+     1>Done Building Project "E:\C++ Reference\C++ Reference Information\Overloading_Unary_Minus\Overloading_Unary_Minus\Overloading_Unary_Minus.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.64

@@ -1,0 +1,15 @@
+﻿Build started 1/26/2015 1:21:30 PM.
+     1>Project "F:\C++ Reference\C++ Reference Information\Functions\Inline Functions\Inline Functions\Inline Functions.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>f:\c++ reference\c++ reference information\functions\inline functions\inline functions\source.cpp(17): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>f:\c++ reference\c++ reference information\functions\inline functions\inline functions\source.cpp(18): warning C4305: 'initializing' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C++ Reference\C++ Reference Information\Functions\Inline Functions\Debug\Inline Functions.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\C++ Reference\C++ Reference Information\Functions\Inline Functions\Debug\Inline Functions.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C++ Reference\C++ Reference Information\Functions\Inline Functions\Debug\Inline Functions.lib" /MACHINE:X86 Debug\Source.obj
+         Inline Functions.vcxproj -> F:\C++ Reference\C++ Reference Information\Functions\Inline Functions\Debug\Inline Functions.exe
+     1>Done Building Project "F:\C++ Reference\C++ Reference Information\Functions\Inline Functions\Inline Functions\Inline Functions.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.46
